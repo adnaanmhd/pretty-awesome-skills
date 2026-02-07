@@ -117,9 +117,9 @@ Puns and wit make copy memorable—but only if it fits the brand and doesn't und
 - "Never {unpleasant event} again"
 - "{Question highlighting main pain point}"
 
-**For comprehensive headline formulas**: See [references/copy-frameworks.md](references/copy-frameworks.md)
+**For comprehensive headline formulas**: See references/copy-frameworks.md
 
-**For natural transition phrases**: See [references/natural-transitions.md](references/natural-transitions.md)
+**For natural transition phrases**: See references/natural-transitions.md
 
 **Subheadline**
 - Expands on headline
@@ -241,11 +241,3 @@ For headlines and CTAs, provide 2-3 options:
 - Meta description
 
 ---
-
-## Related Skills
-
-- **copy-editing**: For polishing existing copy (use after your draft)
-- **page-cro**: If page structure/strategy needs work, not just copy
-- **email-sequence**: For email copywriting
-- **popup-cro**: For popup and modal copy
-- **ab-test-setup**: To test copy variations
