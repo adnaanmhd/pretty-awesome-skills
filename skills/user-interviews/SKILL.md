@@ -23,13 +23,13 @@ When the user asks for help with user interviews:
 ### Keep it casual
 Not too overly formal, not too long. 15 min casual > 1hr formal meeting.
 
-### Push for commitment in the end.
+### Push for commitment in the end
 Know what commitment you'll push for at the end. Commitment can come in the following forms (in order of value):
 - **Money:** pre-orders, deposits, letters of intent
 - **Reputation:** intros to decision-makers, public testimonials
 - **Time:** agreening to trials, feedback sessions, next meetings
 
-### Never ask leading questions. 
+### Never ask leading questions
 Never incinuate/hint/force something through the questions.
 
 ### Ask what matters
